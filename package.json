@@ -1,0 +1,26 @@
+{
+  "name": "holiday-tracking-app",
+  "version": "1.0.0",
+  "description": "holiday tracking application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skyler DeGrote",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "bcrypt": "^0.8.5",
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "foundation": "^4.2.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.8.2",
+    "grunt-contrib-uglify": "^0.11.0",
+    "mongoose": "^4.2.9",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7"
+  }
+}

@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+    margin:0;
+}
+
+main {
+    min-height: 710px;
+}
+
+header {
+     background-color: black;
+     height: 150px;
+     width: 100%;
+}
+
+footer {
+    background-color: black;
+    height: 70px;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+    color:white;
+    width: 100%;
+    font-size: 14px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 25px;
+}
+
